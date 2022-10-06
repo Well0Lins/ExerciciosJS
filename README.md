@@ -1,2 +1,2 @@
 # ExerciciosJS
-Exercícios feito no curso de JavaScript
+Exercícios feitos no decorrer do curso de JavaScript.
